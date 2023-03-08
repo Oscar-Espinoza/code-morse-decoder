@@ -17,3 +17,14 @@ def decode_word(coded_word)
   end
   decoded_word
 end
+
+def decode(coded_message)
+  decoded_message = ''
+  coded_message = coded_message.split('   ')
+  coded_message.each do |coded_word|
+    decoded_message = "#{decoded_message} #{decode_word(coded_word)}"
+  end
+  "Translated message:" + decoded_message
+end
+
+puts decode(INPUT)
