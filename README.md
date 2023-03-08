@@ -62,7 +62,7 @@ ruby installed
 
 Clone this repository to your desired folder:
 
-  git git@github.com:Oscar-Espinoza/code-morse-decoder.git
+  git clone git@github.com:Oscar-Espinoza/code-morse-decoder.git
   cd code-morse-decoder
 
 
@@ -94,7 +94,12 @@ ruby app.rb
 👤 **Juan Pablo Guerrero**
 
 - GitHub: [@juanpa8830](https://github.com/Juanpa8830)
-- LinkedIn: [Juan Pablo Guerrero](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Juan Pablo Guerrero](https://www.linkedin.com/in/juanpabloguerrerorios/)
+
+👤 **Juan Zorrilla**
+
+- GitHub: [@Swarzstein](https://github.com/Swarzstein)
+- LinkedIn: [Juan Zorrilla](https://www.linkedin.com/in/juan-a-zorrilla/)
 
 
 
