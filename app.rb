@@ -24,7 +24,7 @@ def decode(coded_message)
   coded_message.each do |coded_word|
     decoded_message = "#{decoded_message} #{decode_word(coded_word)}"
   end
-  "Translated message:" + decoded_message
+  "Translated message:#{decoded_message}"
 end
 
 puts decode(INPUT)
