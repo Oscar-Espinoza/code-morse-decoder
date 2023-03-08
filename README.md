@@ -62,21 +62,21 @@ ruby installed
 
 Clone this repository to your desired folder:
 
-  git clone git@github.com:Oscar-Espinoza/code-morse-decoder.git
-  cd code-morse-decoder
+- git clone git@github.com:Oscar-Espinoza/code-morse-decoder.git
+- cd code-morse-decoder
 
 
 ### Install
 
 Install this project with:
 
-  bundle install
+- bundle install
 
 ### Usage
 
 To run the project, execute the following command:
 
-ruby app.rb
+- ruby app.rb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
