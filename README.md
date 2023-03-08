@@ -84,8 +84,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Oscar Espinoza**
 
 - GitHub: [@Oscar-Espinoza](https://github.com/Oscar-Espinoza)
@@ -109,10 +107,9 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Code messages into morse code]**
-- [ ] **[Pentagon hacking]**
+- [ ] **[Ability to translate morse code into different languages]**
+- [ ] **[Option to save translated messages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,12 +123,42 @@ Feel free to check the [issues page](https://github.com/Oscar-Espinoza/code-mors
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Acknowledgements -->
+
+## 🤝 Acknowledgements <a name="acknowledgements"></a>
+
+We would like to express our gratitude to the following individuals and organizations for their contributions to this project:
+
+- Our collaborators for their hard work and dedication to this project.
+- Microverse for providing the platform and resources to make this project possible.
+Thank you all for your support and contributions to this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+MIT License
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+Copyright (c) 2023 Oscar Espinoza
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
